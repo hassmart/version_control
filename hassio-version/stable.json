@@ -2,7 +2,7 @@
   "channel": "stable",
   "supervisor": "shimao_105",
   "homeassistant": {
-    "default": "shimao_0.72.0",
-    "qemux86-64": "shimao_0.72.0"
+    "default": "shimao_0.70.1",
+    "qemux86-64": "shimao_0.70.1"
   }
 }
