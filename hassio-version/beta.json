@@ -1,6 +1,6 @@
 {
   "channel": "beta",
-  "supervisor": "shimao_105.1",
+  "supervisor": "shimao_105.2",
   "homeassistant": {
     "default": "shimao_0.70.1",
     "qemux86-64": "shimao_0.70.1"
