@@ -1,5 +1,5 @@
 {
-  "channel": "stable",
+  "channel": "beta",
   "supervisor": "shimao_105",
   "homeassistant": {
     "default": "shimao_0.70.1.1",
